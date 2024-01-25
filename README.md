@@ -1,7 +1,7 @@
 ![logo](https://github.com/NitinParamkar/NitinParamkar/blob/main/github-header-image.png)
 
 <img align = "right" alt = "Codding" width="400" src="https://th.bing.com/th/id/OIG.01qo5q39S2A.LekdLlSg?w=1024&h=1024&rs=1&pid=ImgDetMain">
-- 📫 reach me at  **nitinparamkar@gmail.com**
+- 📫 reach me at  <a>nitinparamkar@gmail.com</a>
 
 <h3 align="left">Connect with me at:</h3>
 <p align="left">
