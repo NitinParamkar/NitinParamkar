@@ -1,6 +1,6 @@
 ![logo](https://github.com/NitinParamkar/NitinParamkar/blob/main/github-header-image.png)
 
-<img align = "right" alt = "Codding" width="400" src="https://th.bing.com/th/id/OIG.01qo5q39S2A.LekdLlSg?w=1024&h=1024&rs=1&pid=ImgDetMain">
+<img align = "right" alt = "img" width="400" src="https://cdn.pixabay.com/photo/2023/12/21/23/44/hourglass-8462950_640.png">
 - 📫 reach me at  <a>nitinparamkar@gmail.com</a>
 
 <h3 align="left">Connect with me at:</h3>
