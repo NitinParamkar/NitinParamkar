@@ -1,7 +1,7 @@
 ![logo](https://github.com/NitinParamkar/NitinParamkar/blob/main/github-header-image.png)
 
 <img align = "right" alt = "img" width="400" src="https://cdn.pixabay.com/photo/2023/12/21/23/44/hourglass-8462950_640.png">
-- 📫 reach me at  <a>nitinparamkar@gmail.com</a>
+- 📫 reach me at  <a href="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRqhBgfsdtCQLzdDqRRRRMbxPqvRvnlhJtrXfXkpkNTnQVslHJtVbwTXkNQWvLCPZwtRWFv">nitinparamkar@gmail.com</a>
 
 <h3 align="left">Connect with me at:</h3>
 <p align="left">
